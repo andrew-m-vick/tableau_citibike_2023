@@ -2,6 +2,8 @@
 
 This Tableau story provides a comprehensive overview of Citibike usage patterns in 2023, leveraging visualizations and interactive filters to uncover key insights.
 
+![Page 1](Images/page_1.png)
+
 ## Key Findings:
 
 - **Seasonal Trends:** Ridership peaks in the summer months and declines in the winter, suggesting a strong influence of weather.
@@ -13,6 +15,8 @@ This Tableau story provides a comprehensive overview of Citibike usage patterns 
 
 - Filter by rider type (member/casual), bike type, and day of the week to gain deeper insights into specific user segments and usage patterns.
 - Hover over map points to view detailed station information.
+
+![Page 3](Images/page_3.png)
 
 ## Potential Use Cases:
 
